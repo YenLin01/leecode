@@ -19,3 +19,4 @@ function check(str) {
 var backspaceCompare = function (s, t) {
   return check(s) == check(t);
 };
+console.log(1213);
